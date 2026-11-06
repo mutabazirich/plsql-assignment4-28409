@@ -1,4 +1,4 @@
--- Run this script once in a clean schema.
+
 CREATE TABLE departments (
     dept_id   NUMBER PRIMARY KEY,
     dept_name VARCHAR2(100) NOT NULL
