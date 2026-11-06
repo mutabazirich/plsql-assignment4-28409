@@ -54,7 +54,5 @@ Run the table-creation and sample-data scripts only once on a fresh schema. If y
 The test scripts use the sample departments and employees created by the schema scripts. Some tests intentionally trigger errors to demonstrate exception handling. Review the comments in each script before executing it.
 
 ## AI assistance disclosure
-AI assistance was used to support learning, explain PL/SQL concepts, and help draft and review parts of the SQL/PLSQL scripts and documentation. The team members are responsible for reviewing, testing, understanding, and presenting the submitted work.
+AI assistance was partially used to  explain PL/SQL concept and review parts of the SQL/PLSQL scripts and documentation. 
 
-## Important
-Replace the team-member placeholders with the correct details. Confirm that every script compiles and runs successfully in your Oracle 21c environment before submission. Keep the repository public if required by the assignment instructions.
