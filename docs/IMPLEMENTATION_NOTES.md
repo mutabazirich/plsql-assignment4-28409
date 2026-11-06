@@ -51,5 +51,10 @@ Run the error test script to verify duplicate employee IDs, invalid salary value
 
 Run the predefined exception test script to demonstrate the expected predefined exceptions.
 
-## 12. Limitations and verification
-The scripts are teaching examples and should be reviewed and executed in the target Oracle 21c schema before submission. Capture actual SQL Developer output in the `screenshots/` folder. Update these notes if the final implementation changes.
+
+
+
+
+
+
+
