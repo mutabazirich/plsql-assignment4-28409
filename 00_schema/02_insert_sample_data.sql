@@ -1,4 +1,4 @@
--- Run this script once after creating the tables.
+-- then we run this script once after creating the tables.
 INSERT INTO departments (dept_id, dept_name) VALUES (1, 'IT');
 INSERT INTO departments (dept_id, dept_name) VALUES (2, 'HR');
 INSERT INTO departments (dept_id, dept_name) VALUES (3, 'Finance');
